@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/landing/static/css/main.ef8a94b6.css",
+    "main.js": "/landing/static/js/main.51056908.js",
+    "static/media/audio_full.jpg": "/landing/static/media/audio_full.3473bf402516eb201d40.jpg",
+    "static/media/airpods-red.png": "/landing/static/media/airpods-red.51ff706777f78d73685a.png",
+    "static/media/airpods-blue.png": "/landing/static/media/airpods-blue.c3bd94dbec16064a273b.png",
+    "static/media/airpods-green.png": "/landing/static/media/airpods-green.3881a8878a8df282b931.png",
+    "static/media/airpods-white.png": "/landing/static/media/airpods-white.651c3b1cee1aebf9571a.png",
+    "static/media/airpods-black.png": "/landing/static/media/airpods-black.088f9ebc224894068b22.png",
+    "static/media/case_red.jpg": "/landing/static/media/case_red.5dcc4cbae29fd528223c.jpg",
+    "static/media/case_blue.jpg": "/landing/static/media/case_blue.f75ccf62a9b57c43d590.jpg",
+    "static/media/case_green.jpg": "/landing/static/media/case_green.8bc799fc2e35cda3cd65.jpg",
+    "static/media/case_black.jpg": "/landing/static/media/case_black.dda3f0cf28a7f4147b93.jpg",
+    "static/media/design_colors_inner_red.jpg": "/landing/static/media/design_colors_inner_red.6f2029443e323cffb2d7.jpg",
+    "static/media/design_colors_inner_blue.jpg": "/landing/static/media/design_colors_inner_blue.1acd9ec1010b9901d5ed.jpg",
+    "static/media/case_white.jpg": "/landing/static/media/case_white.216e52b50117820da0e7.jpg",
+    "static/media/red_m.png": "/landing/static/media/red_m.6de8a07583b2d4189f6b.png",
+    "static/media/blue_m.png": "/landing/static/media/blue_m.34bdd7f357b351dcba9b.png",
+    "static/media/design_colors_inner_black.jpg": "/landing/static/media/design_colors_inner_black.34f5fa384975c7e93158.jpg",
+    "static/media/green_m.png": "/landing/static/media/green_m.eb5842f61de96a9972d2.png",
+    "static/media/black_m.png": "/landing/static/media/black_m.a3be9d4d8e44240c1bb1.png",
+    "static/media/white_m.png": "/landing/static/media/white_m.7cfa139b1e16f9164870.png",
+    "static/media/design_colors_inner_green.jpg": "/landing/static/media/design_colors_inner_green.2482d836a435f340ee3d.jpg",
+    "static/media/design_colors_inner_white.jpg": "/landing/static/media/design_colors_inner_white.70d2e4310826583bcd15.jpg",
+    "static/media/logo.svg": "/landing/static/media/logo.a36d1f0a42c2c086b78f36d51c5a7432.svg",
+    "static/media/logo_white.svg": "/landing/static/media/logo_white.f76843e1b2420d03722d6b48a3b0cc63.svg",
+    "index.html": "/landing/index.html",
+    "main.ef8a94b6.css.map": "/landing/static/css/main.ef8a94b6.css.map",
+    "main.51056908.js.map": "/landing/static/js/main.51056908.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef8a94b6.css",
+    "static/js/main.51056908.js"
+  ]
+}
